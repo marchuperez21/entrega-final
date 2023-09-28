@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "nombre": "LOST MARY BLUE COTTON CANDY",
+    "precio": 1290,
+    "descripcion": "5% NICOTINA 5000 PUFF",
+    "cantidad": 1,
+    "img": "https://cdn.awsli.com.br/600x450/960/960496/produto/206122499/9-lreiar.jpg",
+    "alt": "VAPORIZADOR LOST MARY"
+  },
+  {
+    "id": 2,
+    "nombre": "LOST MARY KIWI PASSION FRUIT GUAVA",
+    "precio": 1290,
+    "descripcion": "5% NICOTINA 5000 PUFF",
+    "cantidad": 1,
+    "img": "https://www.shisha-nil.de/media/image/34/37/41/image_3584_1_600x600.jpg",
+    "alt": "VAPORIZADOR LOST MARY"
+  },
+  {
+    "id": 3,
+    "nombre": "LOST MARY STRAWBERRY MANGO",
+    "precio": 1290,
+    "descripcion": "5% NICOTINA 5000 PUFF",
+    "cantidad": 1,
+    "img": "https://cdn.awsli.com.br/800x800/960/960496/produto/206122950/23-eykyjq.jpg",
+    "alt": "VAPORIZADOR LOST MARY"
+  },
+  {
+    "id": 4,
+    "nombre": "LOST MARY STRAWBERRY PINA COLADA",
+    "precio": 1290,
+    "descripcion": "5% NICOTINA 5000 PUFF",
+    "cantidad": 1,
+    "img": "https://cdn.awsli.com.br/600x700/2611/2611108/produto/21975978979759ea387.jpg",
+    "alt": "VAPORIZADOR LOST MARY"
+  },
+  {
+    "id": 5,
+    "nombre": "MRVI BAR STRAWBERRY KIWI",
+    "precio": 1390,
+    "descripcion": "5% NICOTINA 8000 PUFF",
+    "cantidad": 1,
+    "img": "https://mrvitech.com/wp-content/uploads/2023/07/%E8%8D%89%E8%8E%93%E7%8C%95%E7%8C%B4%E6%A1%83.jpg",
+    "alt": "VAPORIZADOR MRVI"
+  },
+  {
+    "id": 6,
+    "nombre": "MRVI BAR STRAWBERRY ICE",
+    "precio": 1390,
+    "descripcion": "5% NICOTINA 8000 PUFF",
+    "cantidad": 1,
+    "img": "https://mrvitech.com/wp-content/uploads/2023/07/%E8%8D%89%E8%8E%93.jpg",
+    "alt": "VAPORIZADOR MRVI"
+  },
+  {
+    "id": 7,
+    "nombre": "MRVI BAR STRAWBERRY BANANA",
+    "precio": 1390,
+    "descripcion": "5% NICOTINA 8000 PUFF",
+    "cantidad": 1,
+    "img": "https://mrvitech.com/wp-content/uploads/2023/07/%E8%8D%89%E8%8E%93%E9%A6%99%E8%95%89.jpg",
+    "alt": "VAPORIZADOR MRVI"
+  },
+  {
+    "id": 8,
+    "nombre": "MRVI BAR MIXED BERRY",
+    "precio": 1390,
+    "descripcion": "5% NICOTINA 8000 PUFF",
+    "cantidad": 1,
+    "img": "https://mrvitech.com/wp-content/uploads/2023/07/%E6%B7%B7%E5%90%88%E8%8E%93.jpg",
+    "alt": "VAPORIZADOR MRVI"
+  },
+  {
+    "id": 9,
+    "nombre": "MRVI BAR LUSH ICE",
+    "precio": 1390,
+    "descripcion": "5% NICOTINA 8000 PUFF",
+    "cantidad": 1,
+    "img": "https://mrvitech.com/wp-content/uploads/2023/07/%E8%A5%BF%E7%93%9C.jpg",
+    "alt": "VAPORIZADOR MRVI"
+  },
+  {
+    "id": 10,
+    "nombre": "MRVI BAR BLUE RAZZ",
+    "precio": 1390,
+    "descripcion": "5% NICOTINA 8000 PUFF",
+    "cantidad": 1,
+    "img": "https://mrvitech.com/wp-content/uploads/2023/07/%E8%93%9D%E8%8E%93%E6%A0%91%E8%8E%93.jpg",
+    "alt": "VAPORIZADOR MRVI"
+  },
+  {
+    "id": 11,
+    "nombre": "MRVI BAR BANANA ICE",
+    "precio": 1390,
+    "descripcion": "5% NICOTINA 8000 PUFF",
+    "cantidad": 1,
+    "img": "https://mrvitech.com/wp-content/uploads/2023/07/%E9%A6%99%E8%95%89.jpg",
+    "alt": "VAPORIZADOR MRVI"
+  },
+  {
+    "id": 12,
+    "nombre": "MRVI BAR CRANBERRY GRAPE",
+    "precio": 1390,
+    "descripcion": "5% NICOTINA 8000 PUFF",
+    "cantidad": 1,
+    "img": "https://mrvitech.com/wp-content/uploads/2023/07/%E8%94%93%E8%B6%8A%E8%8E%93%E8%91%A1%E8%90%84.jpg",
+    "alt": "VAPORIZADOR MRVI"
+  }
+]

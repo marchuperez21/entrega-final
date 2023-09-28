@@ -1,0 +1,14 @@
+.style {
+  color: rgb(255, 255, 255);
+  text-align: center;
+  padding: 10px 0;
+  margin: 0;
+}
+
+#titulo-principal {
+  color: rgb(235, 235, 111);
+}
+
+#titulo-navbar {
+  color: rgb(235, 235, 111);
+}
